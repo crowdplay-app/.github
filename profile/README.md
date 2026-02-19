@@ -1,3 +1,4 @@
+![CrowdPlay Logo](https://github.com/crowdplay-app/crowdplay-app.github.io/blob/8efda49ba95071719835ae2bad333dc88dfd951b/public/logo.png)
 
 # CrowdPlay
 
