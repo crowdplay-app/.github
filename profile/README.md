@@ -45,4 +45,4 @@ DJs manage the queue with full control — play, skip, reorder, or end the sessi
 
 ---
 
-CrowdPlay a child application of yb-g © 2026
+CrowdPlay, a child application of yb-g © 2026
