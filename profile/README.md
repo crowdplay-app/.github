@@ -22,6 +22,10 @@ Duplicate requests become upvotes — the most wanted songs climb higher.
 ### DJ Controls
 DJs manage the queue with full control — play, skip, reorder, or end the session.
 
+## Optimisation
+#### FOR HACKCLUB
+I focused on optimisation by improving load times, reducing server response latency, and streamlining frontend performance. Careful profiling helped eliminate bottlenecks, and code was refactored for efficiency. These efforts resulted in a faster, smoother experience for users across all parts of CrowdPlay.
+
 ## For DJs
 
 - Create up to 20 sessions with shareable QR codes
